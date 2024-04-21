@@ -26,7 +26,7 @@
    doesn't use javascript and can therefore easily integrated in collaboration 
    tools like sharepoint.
 
-   If an element has a property "url" in it, it will folow the link, otherwise
+   If an element has a property "url" in it, it will follow the link, otherwise
    it will check for an existing "documentation" property and shows a popup if
    there is one.
 
